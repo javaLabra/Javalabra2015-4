@@ -34,7 +34,7 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 ### Deadline VI, perjantai 24.4.
 * [Deadlinen 6 vaatimukset](Deadline-6.md)
 
-### Deadline Katselmointi II, tiistai 28.5.
+### Deadline Katselmointi II, tiistai 28.4.
 * Deadline [koodikatselmoinnille](Koodikatselmointi.md)
 
 ### Demot
@@ -47,6 +47,6 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 * Vastataan myös ohjaajien tai muiden ryhmäläisten esittämiin kysymyksiin.
 * Testaa, että ohjelmasi toimii laitoksen koneilla ennen demoa. Demokoneelle on ladattu kaikkien kurssilaisten GitHub-repositoriot hieman ennen demotilaisuuden alkua. Voit vaihtoehtoisesti tuoda oman läppärisi ja demota siltä.
 
-### Deadline VII ja lopullinen palautus, perjantai 3.5.
+### Deadline VII ja lopullinen palautus, sunnuntai 3.5.
 * [Deadlinen 7 vaatimukset](Deadline-7-lopullinen-palautus.md)
 * [Muistilista lopullista palautusta varten](Muistilista.md)
