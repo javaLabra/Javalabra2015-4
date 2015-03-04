@@ -198,7 +198,7 @@ Tämän tyylisellä (vaihda include-tagien sisältö omaa ohjelmaasi vastaavaksi
             </includes>
         </instrumentation>
     </configuration>
-    <version>2.6</version>
+    <version>2.7</version>
 </plugin>
 ```
 
