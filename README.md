@@ -34,7 +34,7 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 ### Aikataulu
 
-Pajaa tarjolla alla ilmoitettuina aikoina.
+Pajaa tarjolla alla ilmoitettuina aikoina. Pajaohjaus alkaa kurssin toisella viikolla (16.3. -> ).
 Pajat pidetään luokassa **B221**, ellei toisin ilmoiteta.
 
 | klo   | ma  | ti    | ke   | to       | pe    | 
