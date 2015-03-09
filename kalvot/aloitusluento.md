@@ -1,15 +1,15 @@
 % Ohjelmoinnin harjoitustyö a.k.a. Javalabra
-% Essi Salmenkivi, Hanna Kopperi, Antti Haapaniemi
-% 13.1.2015
+% Antti Haapaniemi, Tero Mäntylä
+% 10.3.2015
 
 # Ohjaajat
 
 - Ohjaajat
-    - Antti Haapaniemi -- **Pallero_** -- antti.haapaniemi at helsinki.fi
+	- Antti Haapaniemi -- **Pallero_** -- antti.haapaniemi at helsinki.fi
 	- Tero Mäntylä -- **mantero_** -- tero.mantyla at helsinki.fi
  
 - Yhteyttä sähköpostilla tai irkissä
-- Irkkikanava #javalabra2015 @ IRCnet
+- Irkkikanava #javalabra @ IRCnet
 - Kurssisivu <http://github.com/javaLabra/Javalabra2015-4>
 
 # Mistä kyse?
@@ -25,7 +25,7 @@
 
 - Pakolliset esitietovaatimukset:
     - **Ohjelmoinnin jatkokurssi**
-    - **Ohjelmistotekniikan menetelmät**
+    - **Ohjelmistotekniikan menetelmät** (Voi suorittaa samanaikaisesti neljännellä periodilla)
 - Tule juttelemaan, jos:
     - Olet käynyt kurssit, mutta olet esimerkiksi ollut poissa tentin aikana
     - Mikä tahansa muu puute esitietovaatimuksiin liittyen
