@@ -15,7 +15,7 @@
 
 **Ohjaajat:**
 * Antti Haapaniemi (Pallero_)
-* Tero Mäntylä (mantero_)
+* Tero Mäntylä (mantero)
 
 Sähköpostit: etunimi.sukunimi@helsinki.fi
 
