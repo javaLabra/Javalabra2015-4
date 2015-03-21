@@ -25,7 +25,7 @@ Nyt projektisi pom.xml:n pitäisi näyttää jotakuinkin seuraavalta:
 </project>
 ```
 
-Tämän xml:n alkuosa on jokaisella projektille yksilöllinen. Siihen emme koske. Sen sijaan haluamme lisätä muuutaman riippuvuuden ja pluginin projektiin. Lisätään properties-tagin (</properties>) jälkeen osa:
+Tämän xml:n alkuosa on jokaisella projektille yksilöllinen. Siihen emme koske. Sen sijaan haluamme lisätä muuutaman riippuvuuden ja pluginin projektiin. Lisätään `</properties>`-tagin ja `</project>`-tagin väliin osa:
 ``` xml
 <dependencies>
     <dependency>
