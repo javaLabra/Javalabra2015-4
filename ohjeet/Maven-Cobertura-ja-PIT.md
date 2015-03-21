@@ -1,6 +1,8 @@
 ﻿# Maven, Cobertura ja PIT
 
 ### Projektin luominen
+Jos koneellasi ei ole ohjelmointikurssien jäljiltä NetBeansia, asennus ohjeet löytyvät [täältä](https://github.com/UniversityHelsinkiTKTL/tmc-plugin-installation-guide/blob/master/TmcBeanssinAsennusOmalleKoneelle.md#tmc-netbeanssin-asennus).
+
 Projekti luodaan normaalisti NetBeansin **New Project**-nappulasta. Nyt kuitenkin ei valita kategoriaa **Java**, vaan hieman alempaa etsitään kohta **Maven**. Oikeasta valikosta voidaan nyt valita **Java Application**.
 
 Sivulla **Name and Location** kannattaa antaa ohjelmalle hyvä ja kuvaava nimi. Aseta **Project Location**:ksi Git-repositoriosi osoite. Myös **Group id** täytyy vaihtaa ohjelman nimen mukaiseksi tai ainakin joksikin muuksi kuin _com.mycompany.enterprising.domain_ . Se muuttaa ohjelman vakiopakkauksen nimen, tämä on tärkeää mutaatiotestauksen toiminnan kannalta.
@@ -21,6 +23,8 @@ Nyt projektisi pom.xml:n pitäisi näyttää jotakuinkin seuraavalta:
         <maven.compiler.source>1.7</maven.compiler.source>
         <maven.compiler.target>1.7</maven.compiler.target>
     </properties>
+    
+    <!-- Lisättävä osa tähän väliin-->
 
 </project>
 ```
