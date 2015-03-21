@@ -1,7 +1,7 @@
 ﻿# Maven, Cobertura ja PIT
 
 ### Projektin luominen
-Jos koneellasi ei ole ohjelmointikurssien jäljiltä NetBeansia, asennus ohjeet löytyvät [täältä](https://github.com/UniversityHelsinkiTKTL/tmc-plugin-installation-guide/blob/master/TmcBeanssinAsennusOmalleKoneelle.md#tmc-netbeanssin-asennus).
+Jos koneellasi ei ole ohjelmointikurssien jäljiltä NetBeansia, asennusohjeet löytyvät [täältä](https://github.com/UniversityHelsinkiTKTL/tmc-plugin-installation-guide/blob/master/TmcBeanssinAsennusOmalleKoneelle.md#tmc-netbeanssin-asennus).
 
 Projekti luodaan normaalisti NetBeansin **New Project**-nappulasta. Nyt kuitenkin ei valita kategoriaa **Java**, vaan hieman alempaa etsitään kohta **Maven**. Oikeasta valikosta voidaan nyt valita **Java Application**.
 
