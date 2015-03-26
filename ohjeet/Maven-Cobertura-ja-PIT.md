@@ -206,9 +206,12 @@ Seuraavan tyylisellä (muuta param-kohdat omaa ohjelmaasi vastaaviksi):
 Eli jos haluat testata paketin joka NetBeanssissa on laivanupotus.logiikka, täytyy pom.xml:ään laittaa aivan suoraan `<param>laivanupotus.logiikka*</param>`.
 
 ### Coberturan konfigurointi
-Samoin kuin Pitissä, voidaan myös coberturassa määrittää, mitkä luokat testataan. Tätäkin varten tarvitaan pom.xml:ään configuration-blokki. Coberturassa xml-syntaksi vaatii vielä instrumentationin, includesin ja tarkemmin tiedot mukaan otettavista luokista.
 
-Korvaa
+**Coberturaa ei tarvitse konfiguroida. Pit-raportista käy ilmi projektisi rivikattavuus.**
+
+~~Samoin kuin Pitissä, voidaan myös coberturassa määrittää, mitkä luokat testataan. Tätäkin varten tarvitaan pom.xml:ään configuration-blokki. Coberturassa xml-syntaksi vaatii vielä instrumentationin, includesin ja tarkemmin tiedot mukaan otettavista luokista.~~
+
+~~Korvaa~~
 ``` xml
             <plugin>
                 <groupId>org.codehaus.mojo</groupId>
@@ -217,7 +220,7 @@ Korvaa
             </plugin>
 ```
 
-Tämän tyylisellä (vaihda include-tagien sisältö omaa ohjelmaasi vastaavaksi):
+~~Tämän tyylisellä (vaihda include-tagien sisältö omaa ohjelmaasi vastaavaksi):~~
 
 ``` xml
 <plugin>
@@ -235,7 +238,7 @@ Tämän tyylisellä (vaihda include-tagien sisältö omaa ohjelmaasi vastaavaksi
 </plugin>
 ```
 
-Jos haluat testata kaikki pakkauksen sisällä olevien pakkauksien kaikki luokat, include tulee kirjoittaa muodossa: `<include>ristinolla/**/*.class</include>`.
+~~Jos haluat testata kaikki pakkauksen sisällä olevien pakkauksien kaikki luokat, include tulee kirjoittaa muodossa: `<include>ristinolla/**/*.class</include>`.~~
 
 ### Virhetilanteet
 
