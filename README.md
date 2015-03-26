@@ -26,6 +26,8 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 ### Uutisia
 
+* (26.03.) Coberturan configurointi ei nykyisellä versiolla onnistu ohjeiden mukaisesti. Coberturaa ei tarvitse konfiguroida. Projektisi rivikattavuus käy ilmi pit-raportista.
+
 
 ### Palaute työstäsi
 
