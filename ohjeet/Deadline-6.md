@@ -18,3 +18,8 @@
 ### Ohjelman laajentaminen
 * Mikäli koet, että ohjelmasi on bugiton, hyvin dokumentoitu ja testattu, voit lisätä siihen uusia ominaisuuksia
   * Kysy ehdotuksia ohjaajilta!
+  
+### Demo
+
+* Muista ilmottautua demotilaisuuteen! Demoaminen on pakollinen osa kurssia. Ilmoittautumislinkki löytyy sähköpostistasi.
+* Ajat: ma 27.4. klo 12-14 B119, ma 27.4. klo 14-16 B119, ti 28.4. klo 12-14 DK116, ti 29.4. klo 14-16 B121
