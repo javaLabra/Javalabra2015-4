@@ -25,6 +25,7 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 **EPÄSELVYYKSIÄ?** Kysy ohjaajilta mieluiten ohjauksissa tai IRCissä tai lähetä sähköpostia.
 
 ### Uutisia
+* (24.04.) Katselmointien dl siirretty torstaille 30.4.
 * (21.04.) Demojen ilmottautuminen avattu. Katso linkki sähköpostistasi. Ajat:
 ma 27.4. klo 12-14 B119, ma 27.4. klo 14-16 B119, ti 28.4. klo 12-14 DK116 ja ti 29.4. klo 14-16 B121
 * (27.03.) Ensimmäisen katselmoinnin dl siirretty 3.4. 
