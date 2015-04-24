@@ -34,7 +34,7 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 ### Deadline VI, perjantai 24.4.
 * [Deadlinen 6 vaatimukset](Deadline-6.md)
 
-### Deadline Katselmointi II, tiistai 28.4.
+### Deadline Katselmointi II, tiistai 30.4.
 * Deadline [koodikatselmoinnille](Koodikatselmointi.md)
 
 ### Demot
