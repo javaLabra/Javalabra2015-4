@@ -46,6 +46,7 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 * Ohjelma ei tarvitse olla demottaessa valmis tai bugiton
 * Vastataan myös ohjaajien tai muiden ryhmäläisten esittämiin kysymyksiin.
 * Testaa, että ohjelmasi toimii laitoksen koneilla ennen demoa. Demokoneelle on ladattu kaikkien kurssilaisten GitHub-repositoriot hieman ennen demotilaisuuden alkua. Voit vaihtoehtoisesti tuoda oman läppärisi ja demota siltä.
+* Avoimen opiskelijoille, jotka suorittavat kurssia etäopintoina ja eivät pitkän matkan vuoksi pääse demoamaan, järjestetään korvaava tehtävä. Tästä lisää myöhemmin. 
 
 ### Deadline VII ja lopullinen palautus, sunnuntai 3.5.
 * [Deadlinen 7 vaatimukset](Deadline-7-lopullinen-palautus.md)
